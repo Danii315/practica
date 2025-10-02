@@ -1,3 +1,5 @@
-rojo 
-azul 
-verde
+Rojo 
+Azul 
+Verde
+Amarillo
+Naranja
